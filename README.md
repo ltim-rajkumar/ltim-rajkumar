@@ -37,7 +37,7 @@ I'm a software development engineer.
 [![Github](https://img.shields.io/github/followers/ltim-rajkumar?label=Follow&style=social)](https://github.com/ltim-rajkumar)
 [![Linkedin](https://img.shields.io/badge/-ltim-rajkumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ltim-rajkumar/)
 [![Twitter](https://img.shields.io/twitter/follow/ltim-rajkumar?style=social&logo=twitter&logoColor=white&link=)](https://www.twitter.com/ltim-rajkumar/)
-[![kodtodya-website](https://img.shields.io/badge/ltim-rajkumar-website-orange)](https://ltim-rajkumar.github.io/)
+[![ltim-rajkumar-website](https://img.shields.io/badge/ltim-rajkumar-website-orange)](https://ltim-rajkumar.github.io/)
 [![Mail](https://img.shields.io/badge/-ltim.rajkumar@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:ltim.rajkumar@gmail.com)
 
 ## Profile Visits
